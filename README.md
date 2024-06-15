@@ -3,3 +3,12 @@
 Javascript Basics
 We are going to study about Varibles, Data Types, before we get into objects, functions and components
 Added a new branch develop
+
+**DATA TYPES**
+Number 
+String
+Array
+Object
+Boolean
+
+
